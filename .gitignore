@@ -14,7 +14,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 *test.go
-*config/config.yaml
+*configs/config.yaml
 
 # Mono auto generated files
 mono_crash.*
