@@ -15,12 +15,6 @@ github.com/go-telegram-bot-api/telegram-bot-api/v5
 ## explicit; go 1.18
 github.com/go-viper/mapstructure/v2
 github.com/go-viper/mapstructure/v2/internal/errors
-# github.com/hashicorp/hcl v1.0.0
-## explicit
-# github.com/magiconair/properties v1.8.10
-## explicit; go 1.19
-# github.com/mitchellh/mapstructure v1.5.0
-## explicit; go 1.14
 # github.com/pelletier/go-toml/v2 v2.2.4
 ## explicit; go 1.21.0
 github.com/pelletier/go-toml/v2
@@ -61,8 +55,6 @@ github.com/spf13/afero/mem
 ## explicit; go 1.21.0
 github.com/spf13/cast
 github.com/spf13/cast/internal
-# github.com/spf13/jwalterweatherman v1.1.0
-## explicit
 # github.com/spf13/pflag v1.0.10
 ## explicit; go 1.12
 github.com/spf13/pflag
@@ -94,7 +86,3 @@ golang.org/x/text/internal/utf8internal
 golang.org/x/text/runes
 golang.org/x/text/transform
 golang.org/x/text/unicode/norm
-# gopkg.in/ini.v1 v1.67.0
-## explicit
-# gopkg.in/yaml.v3 v3.0.1
-## explicit
